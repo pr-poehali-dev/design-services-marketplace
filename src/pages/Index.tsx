@@ -103,7 +103,7 @@ export default function Index() {
                 <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent"> на 340%</span>
               </h1>
               <p className="text-xl text-foreground/80 mb-8 leading-relaxed">
-                Профессиональный дизайн интерфейсов для маркетплейсов, который превращает посетителей в покупателей. 
+                Профессиональный дизайн карточек товаров для маркетплейсов, который превращает просмотры в покупки. 
                 Работаем на результат с гарантией ROI.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
