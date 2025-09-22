@@ -66,7 +66,7 @@ export default function Index() {
             <div className="flex items-center space-x-2">
               <Icon name="Palette" size={24} className="text-primary" />
               <span className="font-inter font-bold text-xl bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                DesignLab
+                CardCraft
               </span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
